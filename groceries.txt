@@ -1,3 +1,5 @@
 eggs
 ketchup
 mayonnaise
+flour
+mustard
